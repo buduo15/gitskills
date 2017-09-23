@@ -1,3 +1,4 @@
 #Version 0.1
-In Master
+
+Create a new branch is quick And simple.
 # gitskills
