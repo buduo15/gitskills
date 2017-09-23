@@ -1,4 +1,5 @@
 # What I know about Git
 Git is free for everyone.
 Git is a distribute version control tool under the GPL.
+Git is quick at creating an new branch.
 Git is quite easy to use.
