@@ -1,0 +1,3 @@
+Git is free for everyone.
+Git is a distribute version control tool under the GPL.
+Git is quite easy to use.
